@@ -48,7 +48,6 @@ autoreconf -fi
 %make
 
 %install
-%makeinstall_std
 %makeinstall_std -C engine
 
 %check
