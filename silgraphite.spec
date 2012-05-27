@@ -28,7 +28,7 @@ This package contains libraries used by %{name}.
 
 %package -n %{develname}
 Summary:	Files for developing with silgraphite
-Group:		Development/Libraries
+Group:		Development/C
 Requires:	%{libname} = %{version}-%{release}
 Provides:	%{name}-devel = %{version}-%{release}
 
