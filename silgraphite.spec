@@ -61,3 +61,10 @@ make -C engine/test/RegressionTest check
 %{_libdir}/pkgconfig/*.pc
 %{_libdir}/*.so
 
+
+
+%changelog
+* Sun May 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 2.3.1-1
++ Revision: 800845
+- imported package silgraphite
+
