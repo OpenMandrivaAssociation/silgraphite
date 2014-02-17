@@ -5,7 +5,7 @@
 Summary:	Font rendering capabilities for complex non-Roman writing systems
 Name:		silgraphite
 Version:	2.3.1
-Release:	1
+Release:	2
 Group:		System/Libraries
 License:	LGPLv2+ or CPL
 URL:		http://sourceforge.net/projects/silgraphite/
@@ -14,7 +14,7 @@ Source0:	http://downloads.sourceforge.net/silgraphite/silgraphite-%{version}.tar
 %description
 Graphite is a project within SIL’s Non-Roman Script Initiative and Language
 Software Development groups to provide rendering capabilities for complex
-non-Roman writing systems. Graphite can be used to create “smart fonts” capable
+non-Roman writing systems. Graphite can be used to create "smart fonts" capable
 of displaying writing systems with various complex behaviors. With respect to
 the Text Encoding Model, Graphite handles the "Rendering" aspect of writing
 system implementation.
