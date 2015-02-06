@@ -5,7 +5,7 @@
 Summary:	Font rendering capabilities for complex non-Roman writing systems
 Name:		silgraphite
 Version:	2.3.1
-Release:	2
+Release:	3
 Group:		System/Libraries
 License:	LGPLv2+ or CPL
 URL:		http://sourceforge.net/projects/silgraphite/
