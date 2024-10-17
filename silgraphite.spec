@@ -8,7 +8,7 @@ Version:	2.3.1
 Release:	3
 Group:		System/Libraries
 License:	LGPLv2+ or CPL
-URL:		http://sourceforge.net/projects/silgraphite/
+URL:		https://sourceforge.net/projects/silgraphite/
 Source0:	http://downloads.sourceforge.net/silgraphite/silgraphite-%{version}.tar.gz
 
 %description
