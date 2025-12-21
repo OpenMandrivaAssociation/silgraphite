@@ -11,6 +11,11 @@ License:	LGPLv2+ or CPL
 URL:		https://sourceforge.net/projects/silgraphite/
 Source0:	http://downloads.sourceforge.net/silgraphite/silgraphite-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Graphite is a project within SIL’s Non-Roman Script Initiative and Language
 Software Development groups to provide rendering capabilities for complex
